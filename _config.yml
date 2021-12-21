@@ -3,7 +3,7 @@ gitalk:
   enable: true    #是否开启评论
   clientID: 916bce3cd5d2d13513ca                          #生成的clientID
   clientSecret: 4f791b6026e05d58e0ce6de6550b9166e2a9bdb0   #生成的clientSecret
-  repo: mengchenchen.github.io    #仓库名称
-  owner: mengchenchen    #github用户名
-  admin: mengchenchen  
+  repo: Zyxxx111.github.io    #仓库名称
+  owner: Zyxxx111    #github用户名
+  admin: Zyxxx111  
   distractionFreeMode: true #是否启用阴影遮罩
